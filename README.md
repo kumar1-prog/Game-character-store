@@ -1,16 +1,33 @@
-# React + Vite
+#  Character Weapon Shop - React Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern **React based character weapon shop UI** where users can view characters, open a modal to place an order, and see their orders stacked in a sliding sidebar with automatic total calculation.
 
-Currently, two official plugins are available:
+This project demonstrates **React component architecture, state management, and UI interaction**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+##  Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+-  Character cards display
+-  Modal popup to place order
+-  Quantity selection
+-  Orders stack in sidebar
+-  Automatic total calculation
+-  Responsive UI
+-  Video background
+-  Custom styling with CSS
+-  Smooth sidebar animation
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+##  Tech Stack
+
+- **React JS**
+- **JavaScript (ES6)**
+- **HTML5**
+- **CSS3**
+- **Vite**
+
+---
+
+##  Project Structure
