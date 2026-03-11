@@ -1,0 +1,27 @@
+{
+  "1": {
+    "name": "Iron Hook",
+    "type": "Tank",
+    "price": 29.99
+  },
+  "2": {
+    "name": "Scarlett Blade",
+    "type": "Rogue",
+    "price": 34.99
+  },
+  "3": {
+    "name": "Nita & Bruce",
+    "type": "Brawler",
+    "price": 39.99
+  },
+  "4": {
+    "name": "Sylvan Arrow",
+    "type": "Archer",
+    "price": 24.99
+  },
+  "5": {
+    "name": "Hog Hammer",
+    "type": "Warrior",
+    "price": 44.99
+  }
+}
